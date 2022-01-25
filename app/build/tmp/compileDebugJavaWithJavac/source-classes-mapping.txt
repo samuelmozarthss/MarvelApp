@@ -1,0 +1,18 @@
+com/sams/br/marvelappstarter/databinding/ItemComicBinding.java
+ com.sams.br.marvelappstarter.databinding.ItemComicBinding
+com/sams/br/marvelappstarter/databinding/FragmentListCharacterBinding.java
+ com.sams.br.marvelappstarter.databinding.FragmentListCharacterBinding
+com/sams/br/marvelappstarter/databinding/FragmentDetailsCharacterBinding.java
+ com.sams.br.marvelappstarter.databinding.FragmentDetailsCharacterBinding
+com/sams/br/marvelappstarter/databinding/ActivityMainBinding.java
+ com.sams.br.marvelappstarter.databinding.ActivityMainBinding
+com/sams/br/marvelappstarter/databinding/ActivitySplashBinding.java
+ com.sams.br.marvelappstarter.databinding.ActivitySplashBinding
+com/sams/br/marvelappstarter/databinding/FragmentSearchCharacterBinding.java
+ com.sams.br.marvelappstarter.databinding.FragmentSearchCharacterBinding
+com/sams/br/marvelappstarter/databinding/FragmentFavoriteCharacterBinding.java
+ com.sams.br.marvelappstarter.databinding.FragmentFavoriteCharacterBinding
+com/sams/br/marvelappstarter/databinding/ItemCharacterBinding.java
+ com.sams.br.marvelappstarter.databinding.ItemCharacterBinding
+com/sams/br/marvelappstarter/BuildConfig.java
+ com.sams.br.marvelappstarter.BuildConfig
