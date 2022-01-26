@@ -23,10 +23,10 @@
         android:theme="@style/Theme.MarvelAppStarter"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.sams.br.marvelappstarter.SplashActivity"
+            android:name="com.sams.br.marvelapp.SplashActivity"
             android:exported="true" />
         <activity
-            android:name="com.sams.br.marvelappstarter.MainActivity"
+            android:name="com.sams.br.marvelapp.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

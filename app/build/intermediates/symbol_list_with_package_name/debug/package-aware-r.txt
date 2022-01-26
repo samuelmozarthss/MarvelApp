@@ -1,4 +1,4 @@
-com.sams.br.marvelappstarter
+com.sams.br.marvelapp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -2600,12 +2600,15 @@ id action_bar_title
 id action_container
 id action_context_bar
 id action_divider
+id action_favoriteCharacterFragment_to_detailCharacterFragment
 id action_image
+id action_listCharacterFragment_to_detailCharacterFragment
 id action_menu_divider
 id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_searchCharacterFragment_to_detailCharacterFragment
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2633,6 +2636,7 @@ id beginning
 id bestChoice
 id blocking
 id bottom
+id bottomNavigation
 id bounce
 id bounceBoth
 id bounceEnd
@@ -2690,6 +2694,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detailCharacterFragment
 id dialog_button
 id dimensions
 id direct
@@ -2723,6 +2728,7 @@ id expand_activities_button
 id expanded_menu
 id fade
 id favorite
+id favoriteCharacterFragment
 id fill
 id fill_horizontal
 id fill_vertical
@@ -2732,6 +2738,7 @@ id fixed
 id flip
 id floating
 id forever
+id fragmentContainerView
 id fragment_container_view_tag
 id frost
 id ghost_view
@@ -2780,6 +2787,7 @@ id legacy
 id line1
 id line3
 id linear
+id listCharacterFragment
 id listMode
 id list_item
 id masked
@@ -2839,6 +2847,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nav_controller_view_tag
+id nav_graph
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -2907,6 +2916,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchCharacterFragment
 id search_badge
 id search_bar
 id search_button
@@ -3230,6 +3240,7 @@ mipmap ic_launcher_round
 mipmap ic_logo
 mipmap ic_logo_foreground
 mipmap ic_logo_round
+navigation nav_graph
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description

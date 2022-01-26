@@ -39,14 +39,14 @@
 24-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:16:9-44
 25        <activity
 25-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:18:9-20:39
-26            android:name="com.sams.br.marvelappstarter.SplashActivity"
-26-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:19:13-71
+26            android:name="com.sams.br.marvelapp.SplashActivity"
+26-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:19:13-64
 27            android:exported="true" />
 27-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:20:13-36
 28        <activity
 28-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:21:9-29:20
-29            android:name="com.sams.br.marvelappstarter.MainActivity"
-29-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:22:13-69
+29            android:name="com.sams.br.marvelapp.MainActivity"
+29-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:22:13-62
 30            android:exported="true" >
 30-->D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:23:13-36
 31            <intent-filter>

@@ -1,1 +1,1 @@
-[]
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.sams.br.marvelapp.ui.detail.DetailCharacterFragmentArgs","com.sams.br.marvelapp.ui.favorite.FavoriteCharacterFragmentDirections","com.sams.br.marvelapp.ui.list.ListCharacterFragmentDirections","com.sams.br.marvelapp.ui.search.SearchCharacterFragmentDirections"]}]

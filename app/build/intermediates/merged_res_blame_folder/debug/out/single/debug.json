@@ -164,6 +164,10 @@
         "source": "D:\\Users\\SAMS-PC\\Documents\\AppsMobile\\kotlin\\marvel\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_foreground.png"
     },
     {
+        "merged": "D:\\Users\\SAMS-PC\\Documents\\AppsMobile\\kotlin\\marvel\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\Users\\SAMS-PC\\Documents\\AppsMobile\\kotlin\\marvel\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
         "merged": "D:\\Users\\SAMS-PC\\Documents\\AppsMobile\\kotlin\\marvel\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_foreground.png.flat",
         "source": "D:\\Users\\SAMS-PC\\Documents\\AppsMobile\\kotlin\\marvel\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_foreground.png"
     },

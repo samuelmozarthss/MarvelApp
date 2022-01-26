@@ -77,7 +77,7 @@ INJECTED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\A
 INJECTED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:4:5-43
+		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -144,18 +144,18 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SAMS-PC\.gradle\ca
 		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:15:9-54
 	android:usesCleartextTraffic
 		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:16:9-44
-activity#com.sams.br.marvelappstarter.SplashActivity
+activity#com.sams.br.marvelapp.SplashActivity
 ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:18:9-20:39
 	android:exported
 		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:19:13-71
-activity#com.sams.br.marvelappstarter.MainActivity
+		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:19:13-64
+activity#com.sams.br.marvelapp.MainActivity
 ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:exported
 		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:22:13-69
+		ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:22:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Users\SAMS-PC\Documents\AppsMobile\kotlin\marvel\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
