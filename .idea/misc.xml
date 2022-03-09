@@ -13,11 +13,18 @@
         <entry key="..\:/MeusCursos/MeusCursosUdemy/Android/Marvel/starter/MarvelAppStarter/app/src/main/res/layout/item_character.xml" value="0.36666666666666664" />
         <entry key="..\:/MeusCursos/MeusCursosUdemy/Android/Marvel/starter/MarvelAppStarter/app/src/main/res/menu/menu_nav.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/fragment_details_character.xml" value="0.23412038576654473" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/fragment_favorite_character.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/fragment_list_character.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/fragment_search_character.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/item_character.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/layout/item_comic.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/SAMS-PC/Documents/AppsMobile/kotlin/marvel/app/src/main/res/menu/menu_nav.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

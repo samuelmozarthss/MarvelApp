@@ -12,7 +12,7 @@ import kotlin.Suppress
 
 public class FavoriteCharacterFragmentDirections private constructor() {
   private data class ActionFavoriteCharacterFragmentToDetailCharacterFragment(
-    public val characterId: CharacterModel
+    public val character: CharacterModel
   ) : NavDirections {
     public override fun getActionId(): Int =
         R.id.action_favoriteCharacterFragment_to_detailCharacterFragment
@@ -21,9 +21,9 @@ public class FavoriteCharacterFragmentDirections private constructor() {
     public override fun getArguments(): Bundle {
       val result = Bundle()
       if (Parcelable::class.java.isAssignableFrom(CharacterModel::class.java)) {
-        result.putParcelable("characterId", this.characterId as Parcelable)
+        result.putParcelable("character", this.character as Parcelable)
       } else if (Serializable::class.java.isAssignableFrom(CharacterModel::class.java)) {
-        result.putSerializable("characterId", this.characterId as Serializable)
+        result.putSerializable("character", this.character as Serializable)
       } else {
         throw UnsupportedOperationException(CharacterModel::class.java.name +
             " must implement Parcelable or Serializable or must be an Enum.")
@@ -33,8 +33,7 @@ public class FavoriteCharacterFragmentDirections private constructor() {
   }
 
   public companion object {
-    public
-        fun actionFavoriteCharacterFragmentToDetailCharacterFragment(characterId: CharacterModel):
-        NavDirections = ActionFavoriteCharacterFragmentToDetailCharacterFragment(characterId)
+    public fun actionFavoriteCharacterFragmentToDetailCharacterFragment(character: CharacterModel):
+        NavDirections = ActionFavoriteCharacterFragmentToDetailCharacterFragment(character)
   }
 }

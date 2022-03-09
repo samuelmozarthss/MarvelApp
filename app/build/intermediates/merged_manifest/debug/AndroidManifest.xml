@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name="com.sams.br.marvelapp.MarvelApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -23,10 +24,7 @@
         android:theme="@style/Theme.MarvelAppStarter"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.sams.br.marvelapp.SplashActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.sams.br.marvelapp.MainActivity"
+            android:name="com.sams.br.marvelapp.ui.activity.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,6 +32,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.sams.br.marvelapp.ui.activity.MainActivity"
+            android:exported="true" />
 
         <service
             android:name="androidx.room.MultiInstanceInvalidationService"

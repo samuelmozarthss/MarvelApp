@@ -1,18 +1,188 @@
-com/sams/br/marvelapp/databinding/FragmentFavoriteCharacterBinding.java
- com.sams.br.marvelapp.databinding.FragmentFavoriteCharacterBinding
-com/sams/br/marvelapp/BuildConfig.java
- com.sams.br.marvelapp.BuildConfig
-com/sams/br/marvelapp/databinding/ActivitySplashBinding.java
- com.sams.br.marvelapp.databinding.ActivitySplashBinding
-com/sams/br/marvelapp/databinding/FragmentSearchCharacterBinding.java
- com.sams.br.marvelapp.databinding.FragmentSearchCharacterBinding
-com/sams/br/marvelapp/databinding/ItemComicBinding.java
- com.sams.br.marvelapp.databinding.ItemComicBinding
-com/sams/br/marvelapp/databinding/FragmentListCharacterBinding.java
- com.sams.br.marvelapp.databinding.FragmentListCharacterBinding
+com/sams/br/marvelapp/di/Module_ProvideToMd5HashFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideToMd5HashFactory
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps
+hilt_aggregated_deps/_com_sams_br_marvelapp_di_Module.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_di_Module
+dagger/hilt/internal/aggregatedroot/codegen/_com_sams_br_marvelapp_MarvelApplication.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_sams_br_marvelapp_MarvelApplication
+com/sams/br/marvelapp/ui/search/Hilt_SearchCharacterFragment.java
+ com.sams.br.marvelapp.ui.search.Hilt_SearchCharacterFragment
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_detail_DetailCharacterViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_detail_DetailCharacterViewModel_HiltModules_BindsModule
+com/sams/br/marvelapp/ui/favorite/FavoriteCharacterViewModel_HiltModules.java
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_HiltModules
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_HiltModules$BindsModule
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_HiltModules$KeyModule
 com/sams/br/marvelapp/databinding/FragmentDetailsCharacterBinding.java
  com.sams.br.marvelapp.databinding.FragmentDetailsCharacterBinding
+hilt_aggregated_deps/_com_sams_br_marvelapp_MarvelApplication_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_MarvelApplication_GeneratedInjector
+com/sams/br/marvelapp/ui/search/SearchCharacterViewModel_HiltModules.java
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_HiltModules
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_HiltModules$BindsModule
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_HiltModules$KeyModule
+com/sams/br/marvelapp/di/Module_ProvideServiceApiFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideServiceApiFactory
+com/sams/br/marvelapp/di/Module_ProvideMarvelDatabaseFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideMarvelDatabaseFactory
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_detail_DetailCharacterViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_detail_DetailCharacterViewModel_HiltModules_KeyModule
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_favorite_FavoriteCharacterViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_favorite_FavoriteCharacterViewModel_HiltModules_BindsModule
+com/sams/br/marvelapp/ui/favorite/FavoriteCharacterFragment_GeneratedInjector.java
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterFragment_GeneratedInjector
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_list_ListCharacterViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_list_ListCharacterViewModel_HiltModules_BindsModule
+com/sams/br/marvelapp/databinding/ItemComicBinding.java
+ com.sams.br.marvelapp.databinding.ItemComicBinding
+com/sams/br/marvelapp/ui/favorite/Hilt_FavoriteCharacterFragment.java
+ com.sams.br.marvelapp.ui.favorite.Hilt_FavoriteCharacterFragment
+com/sams/br/marvelapp/ui/activity/Hilt_MainActivity.java
+ com.sams.br.marvelapp.ui.activity.Hilt_MainActivity
+ com.sams.br.marvelapp.ui.activity.Hilt_MainActivity$1
+com/sams/br/marvelapp/ui/list/ListCharacterViewModel_HiltModules.java
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_HiltModules
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_HiltModules$BindsModule
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_HiltModules$KeyModule
+com/sams/br/marvelapp/databinding/FragmentFavoriteCharacterBinding.java
+ com.sams.br.marvelapp.databinding.FragmentFavoriteCharacterBinding
+com/sams/br/marvelapp/ui/list/ListCharacterViewModel_Factory.java
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_Factory
+com/sams/br/marvelapp/MarvelApplication_GeneratedInjector.java
+ com.sams.br.marvelapp.MarvelApplication_GeneratedInjector
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_search_SearchCharacterViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_search_SearchCharacterViewModel_HiltModules_BindsModule
+com/sams/br/marvelapp/ui/detail/DetailCharacterFragment_GeneratedInjector.java
+ com.sams.br.marvelapp.ui.detail.DetailCharacterFragment_GeneratedInjector
+com/sams/br/marvelapp/ui/search/SearchCharacterFragment_GeneratedInjector.java
+ com.sams.br.marvelapp.ui.search.SearchCharacterFragment_GeneratedInjector
+com/sams/br/marvelapp/ui/detail/DetailCharacterViewModel_HiltModules.java
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_HiltModules
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_HiltModules$BindsModule
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_HiltModules$KeyModule
+com/sams/br/marvelapp/data/local/MarvelDatabase_Impl.java
+ com.sams.br.marvelapp.data.local.MarvelDatabase_Impl
+ com.sams.br.marvelapp.data.local.MarvelDatabase_Impl$1
+com/sams/br/marvelapp/databinding/FragmentSearchCharacterBinding.java
+ com.sams.br.marvelapp.databinding.FragmentSearchCharacterBinding
+com/sams/br/marvelapp/ui/favorite/FavoriteCharacterViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_HiltModules_KeyModule_ProvideFactory
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/sams/br/marvelapp/repository/MarvelRepository_Factory.java
+ com.sams.br.marvelapp.repository.MarvelRepository_Factory
+com/sams/br/marvelapp/BuildConfig.java
+ com.sams.br.marvelapp.BuildConfig
+com/sams/br/marvelapp/ui/search/SearchCharacterViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_HiltModules_KeyModule_ProvideFactory
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/sams/br/marvelapp/ui/detail/DetailCharacterViewModel_Factory.java
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_Factory
+com/sams/br/marvelapp/data/local/MarvelDao_Impl.java
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl$1
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl$2
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl$3
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl$4
+ com.sams.br.marvelapp.data.local.MarvelDao_Impl$5
+com/sams/br/marvelapp/ui/detail/Hilt_DetailCharacterFragment.java
+ com.sams.br.marvelapp.ui.detail.Hilt_DetailCharacterFragment
+com/sams/br/marvelapp/databinding/ActivitySplashBinding.java
+ com.sams.br.marvelapp.databinding.ActivitySplashBinding
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_list_ListCharacterViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_list_ListCharacterViewModel_HiltModules_KeyModule
 com/sams/br/marvelapp/databinding/ItemCharacterBinding.java
  com.sams.br.marvelapp.databinding.ItemCharacterBinding
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps
+com/sams/br/marvelapp/di/Module_ProvideRetrofitFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideRetrofitFactory
+com/sams/br/marvelapp/di/Module_ProvideOkHttpClientFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideOkHttpClientFactory
+ com.sams.br.marvelapp.di.Module_ProvideOkHttpClientFactory$InstanceHolder
+com/sams/br/marvelapp/ui/search/SearchCharacterViewModel_Factory.java
+ com.sams.br.marvelapp.ui.search.SearchCharacterViewModel_Factory
+com/sams/br/marvelapp/ui/detail/DetailCharacterViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_HiltModules_KeyModule_ProvideFactory
+ com.sams.br.marvelapp.ui.detail.DetailCharacterViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/sams/br/marvelapp/databinding/FragmentListCharacterBinding.java
+ com.sams.br.marvelapp.databinding.FragmentListCharacterBinding
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_favorite_FavoriteCharacterFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_favorite_FavoriteCharacterFragment_GeneratedInjector
+dagger/hilt/internal/processedrootsentinel/codegen/_com_sams_br_marvelapp_MarvelApplication.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_sams_br_marvelapp_MarvelApplication
+com/sams/br/marvelapp/ui/list/Hilt_ListCharacterFragment.java
+ com.sams.br.marvelapp.ui.list.Hilt_ListCharacterFragment
+com/sams/br/marvelapp/ui/favorite/FavoriteCharacterViewModel_Factory.java
+ com.sams.br.marvelapp.ui.favorite.FavoriteCharacterViewModel_Factory
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_search_SearchCharacterFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_search_SearchCharacterFragment_GeneratedInjector
+com/sams/br/marvelapp/MarvelApplication_HiltComponents.java
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityRetainedC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityRetainedC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$FragmentC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$FragmentC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$FragmentCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ServiceC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ServiceC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ServiceCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$SingletonC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewModelC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewModelC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewModelCBuilderModule
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewWithFragmentC
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.sams.br.marvelapp.MarvelApplication_HiltComponents$ViewWithFragmentCBuilderModule
 com/sams/br/marvelapp/databinding/ActivityMainBinding.java
  com.sams.br.marvelapp.databinding.ActivityMainBinding
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_search_SearchCharacterViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_search_SearchCharacterViewModel_HiltModules_KeyModule
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_list_ListCharacterFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_list_ListCharacterFragment_GeneratedInjector
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_detail_DetailCharacterFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_detail_DetailCharacterFragment_GeneratedInjector
+com/sams/br/marvelapp/ui/activity/MainActivity_GeneratedInjector.java
+ com.sams.br.marvelapp.ui.activity.MainActivity_GeneratedInjector
+com/sams/br/marvelapp/Hilt_MarvelApplication.java
+ com.sams.br.marvelapp.Hilt_MarvelApplication
+ com.sams.br.marvelapp.Hilt_MarvelApplication$1
+com/sams/br/marvelapp/ui/list/ListCharacterFragment_GeneratedInjector.java
+ com.sams.br.marvelapp.ui.list.ListCharacterFragment_GeneratedInjector
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_activity_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_activity_MainActivity_GeneratedInjector
+com/sams/br/marvelapp/di/Module_ProvideMarvelDaoFactory.java
+ com.sams.br.marvelapp.di.Module_ProvideMarvelDaoFactory
+com/sams/br/marvelapp/ui/list/ListCharacterViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_HiltModules_KeyModule_ProvideFactory
+ com.sams.br.marvelapp.ui.list.ListCharacterViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/sams/br/marvelapp/DaggerMarvelApplication_HiltComponents_SingletonC.java
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$1
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCI
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCI
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl$SwitchingProvider
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$Builder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.sams.br.marvelapp.DaggerMarvelApplication_HiltComponents_SingletonC$ServiceCImpl
+hilt_aggregated_deps/_com_sams_br_marvelapp_ui_favorite_FavoriteCharacterViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_sams_br_marvelapp_ui_favorite_FavoriteCharacterViewModel_HiltModules_KeyModule
+com/sams/br/marvelapp/MarvelApplication_ComponentTreeDeps.java
+ com.sams.br.marvelapp.MarvelApplication_ComponentTreeDeps
